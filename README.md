@@ -2,9 +2,9 @@
 Context-Aware Transfer Attacks for Object Detection
 
 
-[Paper](https://arxiv.org/abs/TBD) | [Supplementary results](TBD) | [Data and Code](TBD) are available.
+[Paper](http://arxiv.org/abs/2112.03223) | [Supplementary results](TBD) | [Data and Code](TBD) are available.
 
-[Context-Aware Transfer Attacks for Object Detection](https://arxiv.org/abs/TVD)  
+[Context-Aware Transfer Attacks for Object Detection](http://arxiv.org/abs/2112.03223)  
  Zikui Cai, Xinxin Xie, Shasha Li, Mingjun Yin, Chengyu Song,Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury,
  [M. Salman Asif](https://intra.ece.ucr.edu/~sasif/)<br>
  UC Riverside 
@@ -18,7 +18,7 @@ Supplementary results are available [here](TBD)
 @article{cai2021contextaware,
   title={Context-Aware Transfer Attacks for Object Detection},
   author={Zikui Cai, Xinxin Xie, Shasha Li, Mingjun Yin, Chengyu Song,Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury, M. Salman Asif},
-  journal = {arXiv preprint arXiv:2111.xxx},
+  journal = {arXiv preprint arXiv:2112.03223},
   year      = {2021},
 }
 ```
