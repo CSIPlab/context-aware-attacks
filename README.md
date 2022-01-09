@@ -93,10 +93,10 @@ python get_fooling_rate.py -bb
 ## Citation
 If you find this code repo helpful, please cite:
 ```
-@article{cai2021contextaware,
+@article{cai2021context,
   title={Context-Aware Transfer Attacks for Object Detection},
-  author={Zikui Cai, Xinxin Xie, Shasha Li, Mingjun Yin, Chengyu Song,Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury, M. Salman Asif},
-  journal = {arXiv preprint arXiv:2112.03223},
-  year      = {2021},
+  author={Cai, Zikui and Xie, Xinxin and Li, Shasha and Yin, Mingjun and Song, Chengyu and Krishnamurthy, Srikanth V and Roy-Chowdhury, Amit K and Asif, M Salman},
+  journal={arXiv preprint arXiv:2112.03223},
+  year={2021}
 }
 ```
