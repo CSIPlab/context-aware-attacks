@@ -1,5 +1,5 @@
 # Context-Aware Adversarial Attacks
-### [Paper](http://arxiv.org/abs/2112.03223) | [Code](https://github.com/CSIPlab/context-aware-attacks) | [Slides](TBD) | [Poster](TBD)
+### [Paper](http://arxiv.org/abs/2112.03223) | [Code](https://github.com/CSIPlab/context-aware-attacks) | [Slides](doc/slides) | [Poster](doc/poster)
 
 Pytorch implementation of *Context-Aware Transfer Attacks for Object Detection* in AAAI 2022.
 
